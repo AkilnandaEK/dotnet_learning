@@ -1,0 +1,14 @@
+E:\dotnet_practice\CSharpDay1\bin\Debug\net10.0\CSharpDay1.exe
+E:\dotnet_practice\CSharpDay1\bin\Debug\net10.0\CSharpDay1.deps.json
+E:\dotnet_practice\CSharpDay1\bin\Debug\net10.0\CSharpDay1.runtimeconfig.json
+E:\dotnet_practice\CSharpDay1\bin\Debug\net10.0\CSharpDay1.dll
+E:\dotnet_practice\CSharpDay1\bin\Debug\net10.0\CSharpDay1.pdb
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.AssemblyInfoInputs.cache
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.AssemblyInfo.cs
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.csproj.CoreCompileInputs.cache
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.dll
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\refint\CSharpDay1.dll
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.pdb
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\CSharpDay1.genruntimeconfig.cache
+E:\dotnet_practice\CSharpDay1\obj\Debug\net10.0\ref\CSharpDay1.dll
